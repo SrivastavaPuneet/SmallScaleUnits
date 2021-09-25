@@ -2,7 +2,7 @@
 The dataset deals with the small-scale units in the undivided state of Andhra Pradesh. 
 
 
-The Following analysis are carried out in R and collated together using R Markdown.
+**The Following analysis are carried out in R and collated together using R Markdown.**
 
 1.	Calculate a 95 percent confidence interval for the “Gross output – Year 3 (Rs)”
 
